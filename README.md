@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Good Neighbors';
@@ -12,7 +12,7 @@ font-family: 'Good Neighbors';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GoodNeighbors/GoodNeighbors.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/GoodNeighbors/GoodNeighbors.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -51,4 +51,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GoodNeighbors/GoodNeighbors-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GoodNeighbors/GoodNeighbors-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+개인 및 기업 사용자를 포함한 
+⭐ 모든 분이 사용 가능하며, 
+ 
+글꼴 자체를 판매하는 것을 제외한 
+⭐ 상업적으로 활용 가능합니다.
 ```
